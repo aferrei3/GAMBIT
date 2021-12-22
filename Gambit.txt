@@ -1,0 +1,10 @@
+﻿* Crypto based on ETH network
+* Every 2 weeks, x% of the currency from 90% of the holders is redistributed to 10% of the holders
+
+
+* Name: Gambit
+* Symbol: GBIT
+* Decimal Places: 18 (standard)
+* Supply: 500 Million tokens
+   * Max 5% of tokens distributed between 3 founders
+*
